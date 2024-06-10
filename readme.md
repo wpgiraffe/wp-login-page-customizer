@@ -14,7 +14,7 @@ A wordpress plugin to customize the WordPress login page.
 Go to Appearance > Customize > Login Page to start customizing.
 
 Contributors: wpgiraffe\
-Website: https://wpgiraffes.com\
+Website: https://wpgiraffes.com \
 Tags: login, customizer, login page\
 Requires at least: 5.0\
 Tested up to: 6.0\
